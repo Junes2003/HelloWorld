@@ -13,5 +13,5 @@ public class Cat extends Tamagotchi{
     }
 
 
-gg
+
 }
